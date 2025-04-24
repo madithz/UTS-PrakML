@@ -1,7 +1,7 @@
 # Citrus Classification – Decision Tree Classifier
 
 ## Tujuan
-Membuat model klasifikasi untuk membedakan antara buah **jeruk (orange)** dan **anggur (grapefruit)** berdasarkan fitur seperti diameter, berat, dan nilai RGB warna kulit buah.
+Membuat model klasifikasi untuk membedakan antara buah **Jeruk (Orange)** dan **Anggur (Grapefruit)** berdasarkan fitur seperti diameter, berat, dan nilai RGB warna kulit buah.
 
 ---
 
